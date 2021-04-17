@@ -32,6 +32,10 @@ vue add bootstrap-vue
 6. requirement representation
 7. system analysis
 8. system design
+## revised 
+1. frontend
+2. backend 
+
 
 # changelog
 ## 2021/4/17
