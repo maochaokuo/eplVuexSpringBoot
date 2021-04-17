@@ -18,6 +18,8 @@ npm run serve
 ```
 
 ## add bootstrap
+remember to commit before this step.
+sometimes this step might cause problem
 ```powershell
 vue add bootstrap-vue
 ```
@@ -35,8 +37,10 @@ vue add bootstrap-vue
 ## revised 
 1. frontend
 2. backend 
-
+3. json server
 
 # changelog
 ## 2021/4/17
 - initial commit
+- attendtion: vue create <project>, may only choose 2.x; 
+otherwise 3.x(preview) will cause bootstrap to fail
