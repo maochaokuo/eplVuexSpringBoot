@@ -50,6 +50,10 @@ json-server --watch jsonServer/jsonDB.json
 ```
 
 # changelog
+
+## 2021/4/19
+- add json server
+
 ## 2021/4/17
 - initial commit
 - attendtion: vue create <project>, may only choose 2.x; 
