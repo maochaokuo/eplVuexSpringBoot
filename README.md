@@ -39,6 +39,16 @@ vue add bootstrap-vue
 2. backend 
 3. json server
 
+# json server tips
+## install
+```powershell
+npm install -g json-server
+```
+## run it
+```powershell
+json-server --watch jsonServer/jsonDB.json
+```
+
 # changelog
 ## 2021/4/17
 - initial commit
