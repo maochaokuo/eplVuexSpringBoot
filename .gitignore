@@ -25,3 +25,4 @@ hs_err_pid*
 /epl-sm-tvuex/package-lock.json
 /springBootApi/.mvn
 /springBootApi/*.iml
+/eplSpringBootApi/.mvn
