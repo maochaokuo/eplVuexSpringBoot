@@ -6,6 +6,7 @@
     <session-factory>
         <property name="connection.url">jdbc:sqlserver://localhost\SQL2019;database=eplDB</property>
         <property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+
         <mapping class="com.epl.eplspringbootapi.model.ArticleEntity"/>
         <!-- <property name="connection.username"/> -->
         <!-- <property name="connection.password"/> -->
