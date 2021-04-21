@@ -51,6 +51,9 @@ json-server --watch jsonServer/jsonDB.json
 
 # changelog
 
+## 2021/4/21
+- add eplSpringBootApi, remove springBootApi
+
 ## 2021/4/19
 - add json server
 
