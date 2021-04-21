@@ -1,4 +1,14 @@
-# Getting Started
+# Hibernate tips
+1. right click project, choose add framework support
+2. then choose Hibernate, and Download, also check on two options
+3. select directory to contain model classes
+4. select database to import
+
+# change log
+## 2021/4/21
+- add ms sql schema to model classes
+
+## Getting Started
 
 ### Reference Documentation
 
